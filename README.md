@@ -5,6 +5,9 @@
 📄 **Paper**:  
 [Exploiting DINOv3-Based Self-Supervised Features for Robust Few-Shot Medical Image Segmentation](https://www.arxiv.org/pdf/2601.08078)
 
+Hugging Face: https://huggingface.co/papers/2601.08078
+Model: https://huggingface.co/appletree1900/DINO-AugSeg/tree/main
+Dataset: https://huggingface.co/datasets/appletree1900/ACDC/tree/main
 ---
 
 ## 📌 Overview
