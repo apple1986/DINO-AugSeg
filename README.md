@@ -43,7 +43,11 @@ Download the **processed ACDC dataset** and **pretrained models** from:
 
 🔗 https://drive.google.com/file/d/1QKSINiKGvRRzq2dw2q85HSQ6uZDOmh28/view?usp=sharing
 
-Unzip the downloaded file.
+- Unzip the downloaded file.
+- Place the model file dinov3_convnext_large_pretrain_lvd.pth in checkpoint/dino_ori
+- Place the model file acdc_model_last_epoch.pth in checkpoint/checkpoint_acdc/dino_augseg/cross_guide_wt_unet_7
+- Place the ACDC dataset in dataset/ACDC
+- Please refer the Organize Files below:
 
 ### 3. Organize Files
 ```text
