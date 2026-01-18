@@ -1,0 +1,12 @@
+
+=== Overall Averages (ignore background) ===
+Mean Dice RV/MYO/LV: 
+80.63	79.58	85.34	
+Mean Dice
+81.85
+Mean HD95 RV/MYO/LV:
+4.75	9.97	15.17	
+Mean HD95
+9.96
+Copy directly
+81.85	9.96	80.63	79.58	85.34	4.75	9.97	15.17	
