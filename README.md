@@ -93,6 +93,13 @@ python train_dino_augseg_acdc.py
 ## 📄 Citation
 
 ```bibtex
+@article{xu2026exploiting,
+  title={Exploiting DINOv3-based self-supervised features for robust few-shot medical image segmentation},
+  author={Xu, Guoping and Udupa, Jayaram K and Lu, Weiguo and Zhang, You},
+  journal={Machine Learning: Science and Technology},
+  year={2026}
+}
+Or
 @article{xu2026dinoaugseg,
   title={Exploiting DINOv3-Based Self-Supervised Features for Robust Few-Shot Medical Image Segmentation},
   author={Xu, Guoping and Udupa, Jayaram K and Lu, Weiguo and Zhang, You},
